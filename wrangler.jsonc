@@ -2,7 +2,8 @@
   "name": "cheapstackweb",
   "compatibility_date": "2025-03-25",
   "routes": [
-    { "pattern": "cheapstack.org/api/*", "zone_name": "cheapstack.org" }
+    { "pattern": "cheapstack.org/api/auth*", "zone_name": "cheapstack.org" },
+    { "pattern": "cheapstack.org/api/callback*", "zone_name": "cheapstack.org" }
   ],
   "assets": {
     "directory": "./dist/"
