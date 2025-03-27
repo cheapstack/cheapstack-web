@@ -9,7 +9,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.5.4",
-    "decap-cms-app": "^3.6.2"
+    "astro": "^5.5.4"
   }
 }
