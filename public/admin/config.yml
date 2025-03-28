@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: cheapstack/cheapstackweb
+  repo: cheapstack/cheapstack-web
   branch: main
   site_domain: https://cheapstack.org
   base_url: https://cheapstack.org
